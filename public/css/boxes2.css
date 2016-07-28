@@ -1,0 +1,66 @@
+h1{
+	color: purple;
+	text-decoration: underline;
+	margin-bottom: 50px;
+}
+
+.codeup-ribbon {
+	position: fixed;
+	top: 0;
+	right: 0;
+}
+
+.box{
+	height: 120px;
+	width: 120px;
+	float: left;
+	margin: 0 0 0 10px;
+	position: relative;
+}
+
+.box p {
+	box-sizing: border-box;
+	padding: 10px;
+	color: white;
+	font-weight: bold;
+	border: 1px solid black;
+	height: 72px;
+	width: 72px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+
+.box:nth-child(3n + 1){
+	clear: left;
+}
+
+.arrow{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+
+.red {
+	background-color: #D84231;
+}
+
+.orange {
+	background-color: #E8AC33;
+}
+
+.yellow {
+	background-color: #FBF733;
+}
+
+.green {
+	background-color: #578C05;
+}
+
+.blue {
+	background-color: #234AFB;
+}
+
+.purple {
+	background-color: #DF8BF0;
+}

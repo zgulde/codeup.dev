@@ -1,0 +1,52 @@
+body{
+    height: 100000px;
+}
+
+#container {
+    margin: 50px auto;
+    width: 500px;
+    height: 200px;
+    border: 1px solid #000;
+    
+}
+.box {
+    height: 100px;
+    width: 100px;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+    position: fixed;
+    top: 0;
+    right: 0;
+}
+
+
+.outer-container{
+    position: relative;
+    margin: 50px;
+    border: 1px solid firebrick;
+}
+
+nav {
+    background-color: salmon;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+

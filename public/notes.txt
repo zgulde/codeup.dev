@@ -1,0 +1,26 @@
+quizzes
+
+1995 eich 10 days for netscape
+java is to javascript
+competition with microsoft
+language of the web -- runs everywhere
+
+did the javascript prework?
+add two numbers
+logical and / or operator
+variable
+variable reassignment
+unary operators
+string concatenation
+    string methods
+    figure out if a string contains a character
+inline vs external js
+control structures
+    if else switch while for break
+write a function
+create an array
+create an object
+manipulate the DOM
+
+expression gives us a value, made up of operators and operands
+statements do something, made up of expressions

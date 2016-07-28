@@ -1,0 +1,10 @@
+- no container
+- no closing .col-md-4
+- padding top on body
+- add .img-responsive to `img` tags
+- margin on columns
+- height on column content
+- .highlight from col to new div
+- call to action should be centered
+- change empty div in jumbotron to offset
+- add padding to .highlight p

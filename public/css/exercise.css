@@ -1,0 +1,24 @@
+.box {
+    margin-left: 10px;
+    height: 50px;
+    width: 50px;
+    margin : 30px;
+    float: left;
+    position: relative;
+}
+
+.codeup-arrow {
+    position: absolute;
+    top: -40px;
+    right: -40px;
+}
+
+.box:nth-child(3n + 1) {clear: left;}
+
+
+.red    { background-color: red; }
+.orange { background-color: orange; }
+.yellow { background-color: yellow; }
+.green  { background-color: green; }
+.blue   { background-color: blue; }
+.purple { background-color: purple; }
